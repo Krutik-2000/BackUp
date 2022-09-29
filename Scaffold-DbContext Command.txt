@@ -1,0 +1,1 @@
+Scaffold-DbContext "Server=PC0765\MSSQL2019;Database=Hospital;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models

@@ -1,0 +1,9 @@
+Your DBName is: shopclues-2441-krutik
+Your HostName is: 43.204.134.14
+Your Username is : shopclues-2441-krutik
+Your new Password is : PkNZvxT3epj6YWS
+
+Please note your Api site is deployed url is : shopclues-2441-krutik-Api.radixind.in
+Please note your Portal site is deployed url is : shopclues-2441-krutik-Portal.radixind.in
+
+Scaffold-DbContext "Server=43.204.134.14;Database=shopclues-2441-krutik;User Id=shopclues-2441-krutik;Password=PkNZvxT3epj6YWS;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
