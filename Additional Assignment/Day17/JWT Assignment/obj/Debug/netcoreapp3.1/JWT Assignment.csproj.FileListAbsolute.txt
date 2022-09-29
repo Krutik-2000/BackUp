@@ -1,0 +1,94 @@
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\obj\Debug\netcoreapp3.1\JWT Assignment.csproj.AssemblyReference.cache
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\obj\Debug\netcoreapp3.1\JWT Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\obj\Debug\netcoreapp3.1\JWT Assignment.AssemblyInfoInputs.cache
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\obj\Debug\netcoreapp3.1\JWT Assignment.AssemblyInfo.cs
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\obj\Debug\netcoreapp3.1\JWT Assignment.csproj.CoreCompileInputs.cache
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\obj\Debug\netcoreapp3.1\JWT Assignment.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\appsettings.json
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\JWT Assignment.exe
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\JWT Assignment.deps.json
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\JWT Assignment.runtimeconfig.json
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\JWT Assignment.runtimeconfig.dev.json
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\JWT Assignment.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\JWT Assignment.pdb
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\obj\Debug\netcoreapp3.1\staticwebassets\JWT Assignment.StaticWebAssets.Manifest.cache
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\obj\Debug\netcoreapp3.1\staticwebassets\JWT Assignment.StaticWebAssets.xml
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\obj\Debug\netcoreapp3.1\scopedcss\bundle\JWT Assignment.styles.css
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\obj\Debug\netcoreapp3.1\JWT Assignment.RazorTargetAssemblyInfo.cache
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\obj\Debug\netcoreapp3.1\JWT Assignment.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\obj\Debug\netcoreapp3.1\JWT Assignment.pdb
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\obj\Debug\netcoreapp3.1\JWT Assignment.genruntimeconfig.cache
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\obj\Debug\netcoreapp3.1\JWT Assignment.csproj.CopyComplete
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\New folder\2441-krutik-Feb22\DotnetCore\Day17\Assignments\Assignment1\Source\JWT Assignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll

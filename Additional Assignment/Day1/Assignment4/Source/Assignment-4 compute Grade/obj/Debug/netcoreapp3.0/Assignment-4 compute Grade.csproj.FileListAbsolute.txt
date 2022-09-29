@@ -1,0 +1,11 @@
+D:\New folder\2441-krutik-Feb22\.NetCore\Day1\Assignments\Assignment4\Source\Assignment-4 compute Grade\Assignment-4 compute Grade\bin\Debug\netcoreapp3.0\Assignment-4 compute Grade.exe
+D:\New folder\2441-krutik-Feb22\.NetCore\Day1\Assignments\Assignment4\Source\Assignment-4 compute Grade\Assignment-4 compute Grade\bin\Debug\netcoreapp3.0\Assignment-4 compute Grade.deps.json
+D:\New folder\2441-krutik-Feb22\.NetCore\Day1\Assignments\Assignment4\Source\Assignment-4 compute Grade\Assignment-4 compute Grade\bin\Debug\netcoreapp3.0\Assignment-4 compute Grade.runtimeconfig.json
+D:\New folder\2441-krutik-Feb22\.NetCore\Day1\Assignments\Assignment4\Source\Assignment-4 compute Grade\Assignment-4 compute Grade\bin\Debug\netcoreapp3.0\Assignment-4 compute Grade.runtimeconfig.dev.json
+D:\New folder\2441-krutik-Feb22\.NetCore\Day1\Assignments\Assignment4\Source\Assignment-4 compute Grade\Assignment-4 compute Grade\bin\Debug\netcoreapp3.0\Assignment-4 compute Grade.dll
+D:\New folder\2441-krutik-Feb22\.NetCore\Day1\Assignments\Assignment4\Source\Assignment-4 compute Grade\Assignment-4 compute Grade\bin\Debug\netcoreapp3.0\Assignment-4 compute Grade.pdb
+D:\New folder\2441-krutik-Feb22\.NetCore\Day1\Assignments\Assignment4\Source\Assignment-4 compute Grade\Assignment-4 compute Grade\obj\Debug\netcoreapp3.0\Assignment-4 compute Grade.csprojAssemblyReference.cache
+D:\New folder\2441-krutik-Feb22\.NetCore\Day1\Assignments\Assignment4\Source\Assignment-4 compute Grade\Assignment-4 compute Grade\obj\Debug\netcoreapp3.0\Assignment-4 compute Grade.AssemblyInfoInputs.cache
+D:\New folder\2441-krutik-Feb22\.NetCore\Day1\Assignments\Assignment4\Source\Assignment-4 compute Grade\Assignment-4 compute Grade\obj\Debug\netcoreapp3.0\Assignment-4 compute Grade.AssemblyInfo.cs
+D:\New folder\2441-krutik-Feb22\.NetCore\Day1\Assignments\Assignment4\Source\Assignment-4 compute Grade\Assignment-4 compute Grade\obj\Debug\netcoreapp3.0\Assignment-4 compute Grade.dll
+D:\New folder\2441-krutik-Feb22\.NetCore\Day1\Assignments\Assignment4\Source\Assignment-4 compute Grade\Assignment-4 compute Grade\obj\Debug\netcoreapp3.0\Assignment-4 compute Grade.pdb

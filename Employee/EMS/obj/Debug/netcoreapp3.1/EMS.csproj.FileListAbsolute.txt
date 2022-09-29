@@ -1,0 +1,165 @@
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\EMS.exe
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\EMS.deps.json
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\EMS.runtimeconfig.json
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\EMS.runtimeconfig.dev.json
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\EMS.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\EMS.pdb
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\krutik.vasava\source\repos\EMS\obj\Debug\netcoreapp3.1\EMS.csproj.AssemblyReference.cache
+C:\Users\krutik.vasava\source\repos\EMS\obj\Debug\netcoreapp3.1\EMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krutik.vasava\source\repos\EMS\obj\Debug\netcoreapp3.1\EMS.AssemblyInfoInputs.cache
+C:\Users\krutik.vasava\source\repos\EMS\obj\Debug\netcoreapp3.1\EMS.AssemblyInfo.cs
+C:\Users\krutik.vasava\source\repos\EMS\obj\Debug\netcoreapp3.1\EMS.csproj.CoreCompileInputs.cache
+C:\Users\krutik.vasava\source\repos\EMS\obj\Debug\netcoreapp3.1\EMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\krutik.vasava\source\repos\EMS\obj\Debug\netcoreapp3.1\staticwebassets\EMS.StaticWebAssets.Manifest.cache
+C:\Users\krutik.vasava\source\repos\EMS\obj\Debug\netcoreapp3.1\staticwebassets\EMS.StaticWebAssets.xml
+C:\Users\krutik.vasava\source\repos\EMS\obj\Debug\netcoreapp3.1\scopedcss\bundle\EMS.styles.css
+C:\Users\krutik.vasava\source\repos\EMS\obj\Debug\netcoreapp3.1\EMS.RazorTargetAssemblyInfo.cache
+C:\Users\krutik.vasava\source\repos\EMS\obj\Debug\netcoreapp3.1\EMS.csproj.CopyComplete
+C:\Users\krutik.vasava\source\repos\EMS\obj\Debug\netcoreapp3.1\EMS.dll
+C:\Users\krutik.vasava\source\repos\EMS\obj\Debug\netcoreapp3.1\EMS.pdb
+C:\Users\krutik.vasava\source\repos\EMS\obj\Debug\netcoreapp3.1\EMS.genruntimeconfig.cache
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\krutik.vasava\source\repos\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\appsettings.json
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\EMS.exe
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\EMS.deps.json
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\EMS.runtimeconfig.json
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\EMS.runtimeconfig.dev.json
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\EMS.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\EMS.pdb
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\Employee\EMS\obj\Debug\netcoreapp3.1\EMS.csproj.AssemblyReference.cache
+D:\New folder\Employee\EMS\obj\Debug\netcoreapp3.1\EMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Employee\EMS\obj\Debug\netcoreapp3.1\EMS.AssemblyInfoInputs.cache
+D:\New folder\Employee\EMS\obj\Debug\netcoreapp3.1\EMS.AssemblyInfo.cs
+D:\New folder\Employee\EMS\obj\Debug\netcoreapp3.1\EMS.csproj.CoreCompileInputs.cache
+D:\New folder\Employee\EMS\obj\Debug\netcoreapp3.1\EMS.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\Employee\EMS\obj\Debug\netcoreapp3.1\staticwebassets\EMS.StaticWebAssets.Manifest.cache
+D:\New folder\Employee\EMS\obj\Debug\netcoreapp3.1\staticwebassets\EMS.StaticWebAssets.xml
+D:\New folder\Employee\EMS\obj\Debug\netcoreapp3.1\scopedcss\bundle\EMS.styles.css
+D:\New folder\Employee\EMS\obj\Debug\netcoreapp3.1\EMS.RazorTargetAssemblyInfo.cache
+D:\New folder\Employee\EMS\obj\Debug\netcoreapp3.1\EMS.csproj.CopyComplete
+D:\New folder\Employee\EMS\obj\Debug\netcoreapp3.1\EMS.dll
+D:\New folder\Employee\EMS\obj\Debug\netcoreapp3.1\EMS.pdb
+D:\New folder\Employee\EMS\obj\Debug\netcoreapp3.1\EMS.genruntimeconfig.cache
+D:\New folder\Employee\EMS\bin\Debug\netcoreapp3.1\CloudinaryDotNet.dll

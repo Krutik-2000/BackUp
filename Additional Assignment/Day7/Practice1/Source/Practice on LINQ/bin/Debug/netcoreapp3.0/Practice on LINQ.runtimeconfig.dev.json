@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\krutik.vasava\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\krutik.vasava\\.nuget\\packages"
+    ]
+  }
+}

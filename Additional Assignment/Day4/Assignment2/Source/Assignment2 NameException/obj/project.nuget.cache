@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YLOcV1NwwO4+9qUfFVAfBF08rKHpRDD1G9CLPUQ9wOz0GsTujCLtE93Xt9HkGmngRWOnAVY4Yg1t2LGR656Mww==",
+  "success": true,
+  "projectFilePath": "D:\\New folder\\2441-krutik-Feb22\\DotnetCore\\Day4\\Assignments\\Assignment2\\Source\\Assignment2 NameException\\Assignment2 NameException.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krutik.vasava\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\krutik.vasava\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\krutik.vasava\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\krutik.vasava\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

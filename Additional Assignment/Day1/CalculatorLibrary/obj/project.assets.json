@@ -1,0 +1,101 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.0": {
+      "Pracice/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/Pracice.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pracice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pracice/1.0.0": {
+      "type": "project",
+      "path": "../Pracice/Pracice.csproj",
+      "msbuildProject": "../Pracice/Pracice.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.0": [
+      "Pracice >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\krutik.vasava\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\New folder\\2441-krutik-Feb22\\DotnetCore\\Day1\\Practice\\Practice1\\Source\\CalculatorLibrary\\CalculatorLibrary.csproj",
+      "projectName": "CalculatorLibrary",
+      "projectPath": "D:\\New folder\\2441-krutik-Feb22\\DotnetCore\\Day1\\Practice\\Practice1\\Source\\CalculatorLibrary\\CalculatorLibrary.csproj",
+      "packagesPath": "C:\\Users\\krutik.vasava\\.nuget\\packages\\",
+      "outputPath": "D:\\New folder\\2441-krutik-Feb22\\DotnetCore\\Day1\\Practice\\Practice1\\Source\\CalculatorLibrary\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\krutik.vasava\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "projectReferences": {
+            "D:\\New folder\\2441-krutik-Feb22\\DotnetCore\\Day1\\Practice\\Practice1\\Source\\Pracice\\Pracice.csproj": {
+              "projectPath": "D:\\New folder\\2441-krutik-Feb22\\DotnetCore\\Day1\\Practice\\Practice1\\Source\\Pracice\\Pracice.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.0": {
+        "targetAlias": "netstandard2.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Pracice is not compatible with netstandard2.0 (.NETStandard,Version=v2.0). Project Pracice supports: netcoreapp3.0 (.NETCoreApp,Version=v3.0)",
+      "libraryId": "Pracice",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

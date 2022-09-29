@@ -1,0 +1,11 @@
+D:\New folder\2441-krutik-Feb22\.NetCore\Day1\Assignments\Assignment1\Source\Assignment-2 vowel char\Assignment-2 vowel char\bin\Debug\netcoreapp3.0\Assignment-2 vowel char.exe
+D:\New folder\2441-krutik-Feb22\.NetCore\Day1\Assignments\Assignment1\Source\Assignment-2 vowel char\Assignment-2 vowel char\bin\Debug\netcoreapp3.0\Assignment-2 vowel char.deps.json
+D:\New folder\2441-krutik-Feb22\.NetCore\Day1\Assignments\Assignment1\Source\Assignment-2 vowel char\Assignment-2 vowel char\bin\Debug\netcoreapp3.0\Assignment-2 vowel char.runtimeconfig.json
+D:\New folder\2441-krutik-Feb22\.NetCore\Day1\Assignments\Assignment1\Source\Assignment-2 vowel char\Assignment-2 vowel char\bin\Debug\netcoreapp3.0\Assignment-2 vowel char.runtimeconfig.dev.json
+D:\New folder\2441-krutik-Feb22\.NetCore\Day1\Assignments\Assignment1\Source\Assignment-2 vowel char\Assignment-2 vowel char\bin\Debug\netcoreapp3.0\Assignment-2 vowel char.dll
+D:\New folder\2441-krutik-Feb22\.NetCore\Day1\Assignments\Assignment1\Source\Assignment-2 vowel char\Assignment-2 vowel char\bin\Debug\netcoreapp3.0\Assignment-2 vowel char.pdb
+D:\New folder\2441-krutik-Feb22\.NetCore\Day1\Assignments\Assignment1\Source\Assignment-2 vowel char\Assignment-2 vowel char\obj\Debug\netcoreapp3.0\Assignment-2 vowel char.csprojAssemblyReference.cache
+D:\New folder\2441-krutik-Feb22\.NetCore\Day1\Assignments\Assignment1\Source\Assignment-2 vowel char\Assignment-2 vowel char\obj\Debug\netcoreapp3.0\Assignment-2 vowel char.AssemblyInfoInputs.cache
+D:\New folder\2441-krutik-Feb22\.NetCore\Day1\Assignments\Assignment1\Source\Assignment-2 vowel char\Assignment-2 vowel char\obj\Debug\netcoreapp3.0\Assignment-2 vowel char.AssemblyInfo.cs
+D:\New folder\2441-krutik-Feb22\.NetCore\Day1\Assignments\Assignment1\Source\Assignment-2 vowel char\Assignment-2 vowel char\obj\Debug\netcoreapp3.0\Assignment-2 vowel char.dll
+D:\New folder\2441-krutik-Feb22\.NetCore\Day1\Assignments\Assignment1\Source\Assignment-2 vowel char\Assignment-2 vowel char\obj\Debug\netcoreapp3.0\Assignment-2 vowel char.pdb

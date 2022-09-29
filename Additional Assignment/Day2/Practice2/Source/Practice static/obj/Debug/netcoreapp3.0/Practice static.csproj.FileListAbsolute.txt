@@ -1,0 +1,11 @@
+D:\New folder\2441-krutik-Feb22\.NetCore\Day2\Practice\Practice2\Source\Practice static\Practice static\bin\Debug\netcoreapp3.0\Practice static.exe
+D:\New folder\2441-krutik-Feb22\.NetCore\Day2\Practice\Practice2\Source\Practice static\Practice static\bin\Debug\netcoreapp3.0\Practice static.deps.json
+D:\New folder\2441-krutik-Feb22\.NetCore\Day2\Practice\Practice2\Source\Practice static\Practice static\bin\Debug\netcoreapp3.0\Practice static.runtimeconfig.json
+D:\New folder\2441-krutik-Feb22\.NetCore\Day2\Practice\Practice2\Source\Practice static\Practice static\bin\Debug\netcoreapp3.0\Practice static.runtimeconfig.dev.json
+D:\New folder\2441-krutik-Feb22\.NetCore\Day2\Practice\Practice2\Source\Practice static\Practice static\bin\Debug\netcoreapp3.0\Practice static.dll
+D:\New folder\2441-krutik-Feb22\.NetCore\Day2\Practice\Practice2\Source\Practice static\Practice static\bin\Debug\netcoreapp3.0\Practice static.pdb
+D:\New folder\2441-krutik-Feb22\.NetCore\Day2\Practice\Practice2\Source\Practice static\Practice static\obj\Debug\netcoreapp3.0\Practice static.csprojAssemblyReference.cache
+D:\New folder\2441-krutik-Feb22\.NetCore\Day2\Practice\Practice2\Source\Practice static\Practice static\obj\Debug\netcoreapp3.0\Practice static.AssemblyInfoInputs.cache
+D:\New folder\2441-krutik-Feb22\.NetCore\Day2\Practice\Practice2\Source\Practice static\Practice static\obj\Debug\netcoreapp3.0\Practice static.AssemblyInfo.cs
+D:\New folder\2441-krutik-Feb22\.NetCore\Day2\Practice\Practice2\Source\Practice static\Practice static\obj\Debug\netcoreapp3.0\Practice static.dll
+D:\New folder\2441-krutik-Feb22\.NetCore\Day2\Practice\Practice2\Source\Practice static\Practice static\obj\Debug\netcoreapp3.0\Practice static.pdb

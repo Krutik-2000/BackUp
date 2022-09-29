@@ -1,0 +1,11 @@
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice2\Source\Practice on  Delegate\bin\Debug\netcoreapp3.0\Practice on  Delegate.exe
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice2\Source\Practice on  Delegate\bin\Debug\netcoreapp3.0\Practice on  Delegate.deps.json
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice2\Source\Practice on  Delegate\bin\Debug\netcoreapp3.0\Practice on  Delegate.runtimeconfig.json
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice2\Source\Practice on  Delegate\bin\Debug\netcoreapp3.0\Practice on  Delegate.runtimeconfig.dev.json
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice2\Source\Practice on  Delegate\bin\Debug\netcoreapp3.0\Practice on  Delegate.dll
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice2\Source\Practice on  Delegate\bin\Debug\netcoreapp3.0\Practice on  Delegate.pdb
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice2\Source\Practice on  Delegate\obj\Debug\netcoreapp3.0\Practice on  Delegate.csprojAssemblyReference.cache
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice2\Source\Practice on  Delegate\obj\Debug\netcoreapp3.0\Practice on  Delegate.AssemblyInfoInputs.cache
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice2\Source\Practice on  Delegate\obj\Debug\netcoreapp3.0\Practice on  Delegate.AssemblyInfo.cs
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice2\Source\Practice on  Delegate\obj\Debug\netcoreapp3.0\Practice on  Delegate.dll
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice2\Source\Practice on  Delegate\obj\Debug\netcoreapp3.0\Practice on  Delegate.pdb

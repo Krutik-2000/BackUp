@@ -1,0 +1,11 @@
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice1\Source\Practice on Event\bin\Debug\netcoreapp3.0\Practice on Event.exe
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice1\Source\Practice on Event\bin\Debug\netcoreapp3.0\Practice on Event.deps.json
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice1\Source\Practice on Event\bin\Debug\netcoreapp3.0\Practice on Event.runtimeconfig.json
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice1\Source\Practice on Event\bin\Debug\netcoreapp3.0\Practice on Event.runtimeconfig.dev.json
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice1\Source\Practice on Event\bin\Debug\netcoreapp3.0\Practice on Event.dll
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice1\Source\Practice on Event\bin\Debug\netcoreapp3.0\Practice on Event.pdb
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice1\Source\Practice on Event\obj\Debug\netcoreapp3.0\Practice on Event.csprojAssemblyReference.cache
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice1\Source\Practice on Event\obj\Debug\netcoreapp3.0\Practice on Event.AssemblyInfoInputs.cache
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice1\Source\Practice on Event\obj\Debug\netcoreapp3.0\Practice on Event.AssemblyInfo.cs
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice1\Source\Practice on Event\obj\Debug\netcoreapp3.0\Practice on Event.dll
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice1\Source\Practice on Event\obj\Debug\netcoreapp3.0\Practice on Event.pdb

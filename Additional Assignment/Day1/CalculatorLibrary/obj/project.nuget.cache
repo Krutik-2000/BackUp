@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Np+5MPXfW8GE738Es8xDyhNI2nHZjGdQcJWM5HrRFKW3mL3yQK4ECIW3IKGC9fhSrE2i2zoXrJUZcov+0etOow==",
+  "success": false,
+  "projectFilePath": "D:\\New folder\\2441-krutik-Feb22\\DotnetCore\\Day1\\Practice\\Practice1\\Source\\CalculatorLibrary\\CalculatorLibrary.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Pracice is not compatible with netstandard2.0 (.NETStandard,Version=v2.0). Project Pracice supports: netcoreapp3.0 (.NETCoreApp,Version=v3.0)",
+      "libraryId": "Pracice",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

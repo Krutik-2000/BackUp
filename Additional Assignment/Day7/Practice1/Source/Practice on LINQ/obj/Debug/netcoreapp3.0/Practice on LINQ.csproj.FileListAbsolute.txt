@@ -1,0 +1,11 @@
+D:\New folder\2441-krutik-Feb22\.NetCore\Day7\Practice\Practice1\Source\Practice on LINQ\bin\Debug\netcoreapp3.0\Practice on LINQ.exe
+D:\New folder\2441-krutik-Feb22\.NetCore\Day7\Practice\Practice1\Source\Practice on LINQ\bin\Debug\netcoreapp3.0\Practice on LINQ.deps.json
+D:\New folder\2441-krutik-Feb22\.NetCore\Day7\Practice\Practice1\Source\Practice on LINQ\bin\Debug\netcoreapp3.0\Practice on LINQ.runtimeconfig.json
+D:\New folder\2441-krutik-Feb22\.NetCore\Day7\Practice\Practice1\Source\Practice on LINQ\bin\Debug\netcoreapp3.0\Practice on LINQ.runtimeconfig.dev.json
+D:\New folder\2441-krutik-Feb22\.NetCore\Day7\Practice\Practice1\Source\Practice on LINQ\bin\Debug\netcoreapp3.0\Practice on LINQ.dll
+D:\New folder\2441-krutik-Feb22\.NetCore\Day7\Practice\Practice1\Source\Practice on LINQ\bin\Debug\netcoreapp3.0\Practice on LINQ.pdb
+D:\New folder\2441-krutik-Feb22\.NetCore\Day7\Practice\Practice1\Source\Practice on LINQ\obj\Debug\netcoreapp3.0\Practice on LINQ.csprojAssemblyReference.cache
+D:\New folder\2441-krutik-Feb22\.NetCore\Day7\Practice\Practice1\Source\Practice on LINQ\obj\Debug\netcoreapp3.0\Practice on LINQ.AssemblyInfoInputs.cache
+D:\New folder\2441-krutik-Feb22\.NetCore\Day7\Practice\Practice1\Source\Practice on LINQ\obj\Debug\netcoreapp3.0\Practice on LINQ.AssemblyInfo.cs
+D:\New folder\2441-krutik-Feb22\.NetCore\Day7\Practice\Practice1\Source\Practice on LINQ\obj\Debug\netcoreapp3.0\Practice on LINQ.dll
+D:\New folder\2441-krutik-Feb22\.NetCore\Day7\Practice\Practice1\Source\Practice on LINQ\obj\Debug\netcoreapp3.0\Practice on LINQ.pdb

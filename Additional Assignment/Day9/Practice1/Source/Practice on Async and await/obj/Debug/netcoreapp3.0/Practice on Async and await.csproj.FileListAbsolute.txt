@@ -1,0 +1,11 @@
+D:\New folder\2441-krutik-Feb22\.NetCore\Day8\Practice\Practice1\Source\Practice on Async and await\bin\Debug\netcoreapp3.0\Practice on Async and await.exe
+D:\New folder\2441-krutik-Feb22\.NetCore\Day8\Practice\Practice1\Source\Practice on Async and await\bin\Debug\netcoreapp3.0\Practice on Async and await.deps.json
+D:\New folder\2441-krutik-Feb22\.NetCore\Day8\Practice\Practice1\Source\Practice on Async and await\bin\Debug\netcoreapp3.0\Practice on Async and await.runtimeconfig.json
+D:\New folder\2441-krutik-Feb22\.NetCore\Day8\Practice\Practice1\Source\Practice on Async and await\bin\Debug\netcoreapp3.0\Practice on Async and await.runtimeconfig.dev.json
+D:\New folder\2441-krutik-Feb22\.NetCore\Day8\Practice\Practice1\Source\Practice on Async and await\bin\Debug\netcoreapp3.0\Practice on Async and await.dll
+D:\New folder\2441-krutik-Feb22\.NetCore\Day8\Practice\Practice1\Source\Practice on Async and await\bin\Debug\netcoreapp3.0\Practice on Async and await.pdb
+D:\New folder\2441-krutik-Feb22\.NetCore\Day8\Practice\Practice1\Source\Practice on Async and await\obj\Debug\netcoreapp3.0\Practice on Async and await.csprojAssemblyReference.cache
+D:\New folder\2441-krutik-Feb22\.NetCore\Day8\Practice\Practice1\Source\Practice on Async and await\obj\Debug\netcoreapp3.0\Practice on Async and await.AssemblyInfoInputs.cache
+D:\New folder\2441-krutik-Feb22\.NetCore\Day8\Practice\Practice1\Source\Practice on Async and await\obj\Debug\netcoreapp3.0\Practice on Async and await.AssemblyInfo.cs
+D:\New folder\2441-krutik-Feb22\.NetCore\Day8\Practice\Practice1\Source\Practice on Async and await\obj\Debug\netcoreapp3.0\Practice on Async and await.dll
+D:\New folder\2441-krutik-Feb22\.NetCore\Day8\Practice\Practice1\Source\Practice on Async and await\obj\Debug\netcoreapp3.0\Practice on Async and await.pdb

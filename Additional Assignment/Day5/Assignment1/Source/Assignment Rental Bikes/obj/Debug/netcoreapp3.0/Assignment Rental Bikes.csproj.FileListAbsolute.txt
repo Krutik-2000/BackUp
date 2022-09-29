@@ -1,0 +1,11 @@
+D:\New folder\2441-krutik-Feb22\.NetCore\Day5\Assignments\Assignment1\Source\Assignment Rental Bikes\bin\Debug\netcoreapp3.0\Assignment Rental Bikes.exe
+D:\New folder\2441-krutik-Feb22\.NetCore\Day5\Assignments\Assignment1\Source\Assignment Rental Bikes\bin\Debug\netcoreapp3.0\Assignment Rental Bikes.deps.json
+D:\New folder\2441-krutik-Feb22\.NetCore\Day5\Assignments\Assignment1\Source\Assignment Rental Bikes\bin\Debug\netcoreapp3.0\Assignment Rental Bikes.runtimeconfig.json
+D:\New folder\2441-krutik-Feb22\.NetCore\Day5\Assignments\Assignment1\Source\Assignment Rental Bikes\bin\Debug\netcoreapp3.0\Assignment Rental Bikes.runtimeconfig.dev.json
+D:\New folder\2441-krutik-Feb22\.NetCore\Day5\Assignments\Assignment1\Source\Assignment Rental Bikes\bin\Debug\netcoreapp3.0\Assignment Rental Bikes.dll
+D:\New folder\2441-krutik-Feb22\.NetCore\Day5\Assignments\Assignment1\Source\Assignment Rental Bikes\bin\Debug\netcoreapp3.0\Assignment Rental Bikes.pdb
+D:\New folder\2441-krutik-Feb22\.NetCore\Day5\Assignments\Assignment1\Source\Assignment Rental Bikes\obj\Debug\netcoreapp3.0\Assignment Rental Bikes.csprojAssemblyReference.cache
+D:\New folder\2441-krutik-Feb22\.NetCore\Day5\Assignments\Assignment1\Source\Assignment Rental Bikes\obj\Debug\netcoreapp3.0\Assignment Rental Bikes.AssemblyInfoInputs.cache
+D:\New folder\2441-krutik-Feb22\.NetCore\Day5\Assignments\Assignment1\Source\Assignment Rental Bikes\obj\Debug\netcoreapp3.0\Assignment Rental Bikes.AssemblyInfo.cs
+D:\New folder\2441-krutik-Feb22\.NetCore\Day5\Assignments\Assignment1\Source\Assignment Rental Bikes\obj\Debug\netcoreapp3.0\Assignment Rental Bikes.dll
+D:\New folder\2441-krutik-Feb22\.NetCore\Day5\Assignments\Assignment1\Source\Assignment Rental Bikes\obj\Debug\netcoreapp3.0\Assignment Rental Bikes.pdb

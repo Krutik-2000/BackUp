@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Practice on Func-Delegate/1.0.0": {
+        "runtime": {
+          "Practice on Func-Delegate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practice on Func-Delegate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

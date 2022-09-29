@@ -1,0 +1,10 @@
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice3\Source\Practice on Lambda expression\obj\Debug\netcoreapp3.0\Practice on Lambda expression.AssemblyInfoInputs.cache
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice3\Source\Practice on Lambda expression\obj\Debug\netcoreapp3.0\Practice on Lambda expression.AssemblyInfo.cs
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice3\Source\Practice on Lambda expression\bin\Debug\netcoreapp3.0\Practice on Lambda expression.exe
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice3\Source\Practice on Lambda expression\bin\Debug\netcoreapp3.0\Practice on Lambda expression.deps.json
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice3\Source\Practice on Lambda expression\bin\Debug\netcoreapp3.0\Practice on Lambda expression.runtimeconfig.json
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice3\Source\Practice on Lambda expression\bin\Debug\netcoreapp3.0\Practice on Lambda expression.runtimeconfig.dev.json
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice3\Source\Practice on Lambda expression\bin\Debug\netcoreapp3.0\Practice on Lambda expression.dll
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice3\Source\Practice on Lambda expression\bin\Debug\netcoreapp3.0\Practice on Lambda expression.pdb
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice3\Source\Practice on Lambda expression\obj\Debug\netcoreapp3.0\Practice on Lambda expression.dll
+D:\New folder\2441-krutik-Feb22\.NetCore\Day6\Practice\Practice3\Source\Practice on Lambda expression\obj\Debug\netcoreapp3.0\Practice on Lambda expression.pdb
