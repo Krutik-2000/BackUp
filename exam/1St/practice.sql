@@ -29,6 +29,7 @@ OtStatus int foreign key references ObjectType(TypeId),
 
 select* from Overtimes
 
+
 select DATENAME(MM,OTDate)as Month,* from Overtimes order by EmpId
 
 create Trigger datainsert
@@ -41,6 +42,7 @@ set ActualOvertime = ActualBillable-ExpectedBillable
 where EmpId = (select EmpId from inserted)
 end
 
+select * from Overtimes
 alter procedure calc
 @Month varchar(30)
 as
@@ -63,26 +65,29 @@ end
 exec calc 'January'
 
 select EmpId, DATENAME(MM,OTDate) as [Month], ActualOvertime from Overtimes 
-
+select * from emp
 SELECT * FROM USERS
 SELECT * FROM vOvertimes
 
-CREATE VIEW vOvertimes
+Alter VIEW vOvertimes
 AS
 SELECT DISTINCT (SELECT EmpName FROM USERS AS U WHERE U.EmpId = O.EmpId) As EmpName,
 COALESCE((SELECT OT.ActualOvertime FROM Overtimes As OT WHERE  OT.EmpId = O.EmpId AND MONTH(OT.OTDate) = 1) ,0) AS JAN,
 COALESCE((SELECT OT.ActualOvertime FROM Overtimes As OT WHERE  OT.EmpId = O.EmpId AND MONTH(OT.OTDate) = 2) ,0) AS FEB,
 COALESCE((SELECT OT.ActualOvertime FROM Overtimes As OT WHERE  OT.EmpId = O.EmpId AND MONTH(OT.OTDate) = 3) ,0) AS MARCH,
 COALESCE((SELECT OT.ActualOvertime FROM Overtimes As OT WHERE  OT.EmpId = O.EmpId AND MONTH(OT.OTDate) = 4) ,0) AS APRIL,
+Coalesce((select Sum(OT.ActualOvertime) from Overtimes AS OT where OT.EmpId = O.EmpId and OT.ActualOvertime =(ABS(OT.ActualOvertime)) and Month(OT.OTDate) in (1,2,3,4)),0) AS Quater1,
 COALESCE((SELECT OT.ActualOvertime FROM Overtimes As OT WHERE  OT.EmpId = O.EmpId AND MONTH(OT.OTDate) = 5) ,0) AS MAY,
 COALESCE((SELECT OT.ActualOvertime FROM Overtimes As OT WHERE  OT.EmpId = O.EmpId AND MONTH(OT.OTDate) = 6) ,0) AS JUNE,
 COALESCE((SELECT OT.ActualOvertime FROM Overtimes As OT WHERE  OT.EmpId = O.EmpId AND MONTH(OT.OTDate) = 7) ,0) AS JULY,
 COALESCE((SELECT OT.ActualOvertime FROM Overtimes As OT WHERE  OT.EmpId = O.EmpId AND MONTH(OT.OTDate) = 8) ,0) AS AUG,
+Coalesce((select Sum(OT.ActualOvertime) from Overtimes AS OT where OT.EmpId = O.EmpId and Month(OT.OTDate) in (5,6,7,8)),0) AS Quater2,
 COALESCE((SELECT OT.ActualOvertime FROM Overtimes As OT WHERE  OT.EmpId = O.EmpId AND MONTH(OT.OTDate) = 9) ,0) AS SEPT,
 COALESCE((SELECT OT.ActualOvertime FROM Overtimes As OT WHERE  OT.EmpId = O.EmpId AND MONTH(OT.OTDate) = 10) ,0) AS OCT,
 COALESCE((SELECT OT.ActualOvertime FROM Overtimes As OT WHERE  OT.EmpId = O.EmpId AND MONTH(OT.OTDate) = 11) ,0) AS NOV,
 COALESCE((SELECT OT.ActualOvertime FROM Overtimes As OT WHERE  OT.EmpId = O.EmpId AND MONTH(OT.OTDate) = 12) ,0) AS DEC,
-COALESCE((SELECT Sum(OT.ActualOvertime) FROM Overtimes As OT WHERE  OT.EmpId = O.EmpId ) ,0) AS [Total_OverTime]
+Coalesce((select Sum(OT.ActualOvertime) from Overtimes AS OT where OT.EmpId = O.EmpId and Month(OT.OTDate) in (9,10,11,12)),0) AS Quater3,
+COALESCE((SELECT Sum(OT.ActualOvertime) FROM Overtimes As OT WHERE  OT.EmpId = O.EmpId and OT.ActualOvertime =(ABS(OT.ActualOvertime))) ,0) AS [Total_OverTime]
  FROM Overtimes O
  
  

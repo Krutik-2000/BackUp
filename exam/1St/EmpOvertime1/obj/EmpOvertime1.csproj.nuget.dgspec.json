@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder\\exam\\1St\\EmpOvertime1\\EmpOvertime1.csproj": {}
+    "D:\\BackUp\\BackUp\\exam\\1St\\EmpOvertime1\\EmpOvertime1.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\exam\\1St\\EmpOvertime1\\EmpOvertime1.csproj": {
+    "D:\\BackUp\\BackUp\\exam\\1St\\EmpOvertime1\\EmpOvertime1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\exam\\1St\\EmpOvertime1\\EmpOvertime1.csproj",
+        "projectUniqueName": "D:\\BackUp\\BackUp\\exam\\1St\\EmpOvertime1\\EmpOvertime1.csproj",
         "projectName": "EmpOvertime1",
-        "projectPath": "D:\\New folder\\exam\\1St\\EmpOvertime1\\EmpOvertime1.csproj",
+        "projectPath": "D:\\BackUp\\BackUp\\exam\\1St\\EmpOvertime1\\EmpOvertime1.csproj",
         "packagesPath": "C:\\Users\\krutik.vasava\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\exam\\1St\\EmpOvertime1\\obj\\",
+        "outputPath": "D:\\BackUp\\BackUp\\exam\\1St\\EmpOvertime1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

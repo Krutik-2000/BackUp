@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\krutik.vasava\\Desktop\\Live Coding Test\\API\\TrainManagementSystemAPI\\TrainManagementSystemAPI.csproj": {}
+    "D:\\BackUp\\BackUp\\Live Coding Test\\API\\TrainManagementSystemAPI\\TrainManagementSystemAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\krutik.vasava\\Desktop\\Live Coding Test\\API\\TrainManagementSystemAPI\\TrainManagementSystemAPI.csproj": {
+    "D:\\BackUp\\BackUp\\Live Coding Test\\API\\TrainManagementSystemAPI\\TrainManagementSystemAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\krutik.vasava\\Desktop\\Live Coding Test\\API\\TrainManagementSystemAPI\\TrainManagementSystemAPI.csproj",
+        "projectUniqueName": "D:\\BackUp\\BackUp\\Live Coding Test\\API\\TrainManagementSystemAPI\\TrainManagementSystemAPI.csproj",
         "projectName": "TrainManagementSystemAPI",
-        "projectPath": "C:\\Users\\krutik.vasava\\Desktop\\Live Coding Test\\API\\TrainManagementSystemAPI\\TrainManagementSystemAPI.csproj",
+        "projectPath": "D:\\BackUp\\BackUp\\Live Coding Test\\API\\TrainManagementSystemAPI\\TrainManagementSystemAPI.csproj",
         "packagesPath": "C:\\Users\\krutik.vasava\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\krutik.vasava\\Desktop\\Live Coding Test\\API\\TrainManagementSystemAPI\\obj\\",
+        "outputPath": "D:\\BackUp\\BackUp\\Live Coding Test\\API\\TrainManagementSystemAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
